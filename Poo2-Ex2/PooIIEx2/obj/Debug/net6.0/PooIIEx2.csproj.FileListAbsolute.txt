@@ -1,0 +1,15 @@
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\PooIIEx2.csproj.AssemblyReference.cache
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\PooIIEx2.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\PooIIEx2.AssemblyInfoInputs.cache
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\PooIIEx2.AssemblyInfo.cs
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\PooIIEx2.csproj.CoreCompileInputs.cache
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\bin\Debug\net6.0\PooIIEx2.exe
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\bin\Debug\net6.0\PooIIEx2.deps.json
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\bin\Debug\net6.0\PooIIEx2.runtimeconfig.json
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\bin\Debug\net6.0\PooIIEx2.dll
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\bin\Debug\net6.0\PooIIEx2.pdb
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\PooIIEx2.dll
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\refint\PooIIEx2.dll
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\PooIIEx2.pdb
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\PooIIEx2.genruntimeconfig.cache
+C:\workspace\Repositórios\PooIIEx2\PooIIEx2\obj\Debug\net6.0\ref\PooIIEx2.dll
