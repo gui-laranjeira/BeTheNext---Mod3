@@ -16,7 +16,7 @@ namespace Poo2_Ex4_Interface.Models.Animais
         {
             throw new NotImplementedException();
         }
-
+          
         public void Chocar()
         {
             throw new NotImplementedException();

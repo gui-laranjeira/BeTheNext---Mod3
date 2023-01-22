@@ -1,0 +1,15 @@
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\bin\Debug\net6.0\Poo2-Ex5-DIctionary.exe
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\bin\Debug\net6.0\Poo2-Ex5-DIctionary.deps.json
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\bin\Debug\net6.0\Poo2-Ex5-DIctionary.runtimeconfig.json
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\bin\Debug\net6.0\Poo2-Ex5-DIctionary.dll
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\bin\Debug\net6.0\Poo2-Ex5-DIctionary.pdb
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\Poo2-Ex5-DIctionary.csproj.AssemblyReference.cache
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\Poo2-Ex5-DIctionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\Poo2-Ex5-DIctionary.AssemblyInfoInputs.cache
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\Poo2-Ex5-DIctionary.AssemblyInfo.cs
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\Poo2-Ex5-DIctionary.csproj.CoreCompileInputs.cache
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\Poo2-Ex5-DIctionary.dll
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\refint\Poo2-Ex5-DIctionary.dll
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\Poo2-Ex5-DIctionary.pdb
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\Poo2-Ex5-DIctionary.genruntimeconfig.cache
+C:\workspace\Repositórios\BeTheNext---Mod3\Poo2-Ex5-DIctionary\Poo2-Ex5-DIctionary\obj\Debug\net6.0\ref\Poo2-Ex5-DIctionary.dll
